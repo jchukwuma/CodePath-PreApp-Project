@@ -7,7 +7,7 @@ This is the pre-work project for the CodePath application.
 `TODO://` This app changes text, text color, and background color, and resets screen to original features.
 
 ### App Walk-though
-<img src="https://imgur.com/E9A91jE" width=200><br>
+<img src="https://i.imgur.com/E9A91jE.gif width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
