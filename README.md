@@ -7,10 +7,7 @@ This is the pre-work project for the CodePath application.
 `TODO://` This app changes text, text color, and background color, and resets screen to original features.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="https://imgur.com/a/VzLxxt6" width=200><br>
-
+<img src="https://imgur.com/E9A91jE" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
